@@ -61,4 +61,10 @@ PagBus foi desenvolvido como parte do Projeto Integrado Multidisciplinar (PIM II
 
 ---
 
+## 🌐 InfinityWare 
+
+[Retorne a Página inicial da empresa](https://github.com/INFTYWARE)
+
+---
+
 © 2024 PagBus Solutions. Todos os direitos reservados.
